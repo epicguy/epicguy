@@ -1,4 +1,4 @@
-## James Shelby - Back-end / Full-stack (React, NodeJS, AWS)
+## Hi! I'm James. Welcome to my space
 ### Twelve years experience in enterprise application architecture, design and implementation on Node.js
 #### Currenlty working on:
   - [InfluenceBoard.com](https://app.influenceboard.com) built on VanillaJS and NodeJS (AWS, MySQL, Fargate)
